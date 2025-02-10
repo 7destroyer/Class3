@@ -1,6 +1,7 @@
 /* Подсчет кол-ва слов в строке */
 #include <iostream>
 #include <string>
+#include <cctype>
 
 using namespace std;
 
